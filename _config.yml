@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaorui Yang"
-description              : "Trustworthy AI, Large Language Model"
+description              : "Currently interested in Trustworthy AI and LLMs."
 repository               : "rickyang1114/rickyang1114.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhaorui Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student"
+  bio              : "Ph.D. student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 

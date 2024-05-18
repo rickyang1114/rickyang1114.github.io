@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD&CG, Zhejiang University. I'm currently insterested in Trustworthy AI and LLMs.
+I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper gets accepted by ACL 2024
