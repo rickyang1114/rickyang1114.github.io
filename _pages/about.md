@@ -27,7 +27,7 @@ I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD 
 <br>**Zhaorui Yang**, Qian Liu, Tianyu Pang, Haozhe Feng, Han Wang, Minfeng Zhu, Wei Chen
 <br>ACL 2024
 
-- CoSDA: Continual Source-Free Domain Adaptation \| [Paper](https://arxiv.org/pdf/2304.06627) \| [Code](https://github.com/FengHZ/CoSDA) <strong><span class='AGjSco8AAAAJ:UeHWp8X0CEIC' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CoSDA: Continual Source-Free Domain Adaptation \| [Paper](https://arxiv.org/pdf/2304.06627) \| [Code](https://github.com/FengHZ/CoSDA)
 <br>Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Zhu, Wei Chen, Shuicheng Yan
 <br>Arxiv Preprint
 
@@ -42,4 +42,4 @@ I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD 
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University.
 
 # 💻 Internships
-I am in search of a research internship.
+None yet
