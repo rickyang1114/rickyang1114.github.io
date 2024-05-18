@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage of Zhaorui Yang"
+title                    : "Zhaorui Yang"
 description              : "Trustworthy AI, Large Language Model"
 repository               : "rickyang1114/rickyang1114.github.io"
 google_scholar_stats_use_cdn : true
