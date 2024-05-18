@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD & CG, Zhejiang University. I'm currently insterested in Trustworthy AI and LLMs.
+I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD&CG, Zhejiang University. I'm currently insterested in Trustworthy AI and LLMs.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper got accepted by ACL 2024!
@@ -29,7 +29,7 @@ I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD 
 
 - CoSDA: Continual Source-Free Domain Adaptation \| [Paper](https://arxiv.org/pdf/2304.06627) \| [Code](https://github.com/FengHZ/CoSDA)
 <br>Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Zhu, Wei Chen, Shuicheng Yan
-<br>Arxiv Preprint
+<br>Arxiv Preprint 2304.06627
 
 > \* represents equal contribution.
 
@@ -38,7 +38,7 @@ I'm a Ph.D. student at [VAI group](https://zjuvag.org/) of State Key Lab of CAD 
 - *2021.12* China National Scholarship.
 
 # 📖 Educations
-- *2023.09 - now* <br> Ph.D. student in Software Engineering at State Key Lab of CAD & CG, Zhejiang University.
+- *2023.09 - now* <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University.
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University.
 
 # 💻 Internships
