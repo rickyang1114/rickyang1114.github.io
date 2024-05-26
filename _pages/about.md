@@ -20,16 +20,17 @@ redirect_from:
 I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper gets accepted by ACL 2024
+- *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024
 
 # 📝 Publications
+> The symbol \* represents equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/sdft.png' alt="SDFT image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/pdf/2402.13669) \| [Code](https://github.com/sail-sg/sdft) 
 
-**Zhaorui Yang**, Qian Liu, Tianyu Pang, Haozhe Feng, Han Wang, Minfeng Zhu, Wei Chen
+**Zhaorui Yang**, Tianyu Pang, Haozhe Feng, Han Wang, Wei Chen, Minfeng Zhu, Qian Liu
 
 - In this work, we propose a novel fine-tuning approach to mitigate the catastrophic forgetting during the fine-tuning of language models.
 </div>
@@ -45,8 +46,6 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - In this work, we investigate the mechanism of catastrophic forgetting of previous Source-Free Domain Adaptation (SFDA) approaches. Motivated by the findings, we propose CoSDA which outperforms SOTA approaches in continuous adaptation.
 </div>
 </div>
-
-> The symbol \* represents equal contribution.
 
 # 🎖 Honors and Awards
 - *2022.12* China National Scholarship.
