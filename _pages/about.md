@@ -55,7 +55,7 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2021.12* China National Scholarship (Undergraduate).
 
 # 📖 Education
-- *2023.09 - Present* <br> PhD. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University.
+- *2023.09 - Present* <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University.
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University.
 
 # 💻 Internships
