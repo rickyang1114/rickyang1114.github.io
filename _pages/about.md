@@ -29,7 +29,10 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, under the s
 
 [Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669)
 
-[PDF](https://arxiv.org/pdf/2402.13669) \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| [poster](files/sdft/sdft_poster.pdf) \| [slide](files/sdft/sdft_slide.pdf) <strong><span class='show_paper_citations' data='AGjSco8AAAAJ:qjMakFHDy7sC'></span></strong> 
+[PDF](https://arxiv.org/pdf/2402.13669) \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| [Poster](files/sdft/sdft_poster.pdf) \| [Slide](files/sdft/sdft_slide.pdf)
+
+<strong><span id='total_cit'>123</span></strong>
+<span class="show_paper_citations" data="AGjSco8AAAAJ:qjMakFHDy7sC"></span>
 
 **Zhaorui Yang**, Tianyu Pang, Haozhe Feng, Han Wang, Wei Chen, Minfeng Zhu, Qian Liu
 
