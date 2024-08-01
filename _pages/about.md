@@ -65,3 +65,5 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 
 # 💻 Internships
 None yet.
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Last Modified at: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S"}}</div>
