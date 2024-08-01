@@ -15,19 +15,19 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src='../files/logos/zju_blue.svg' style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
+I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
 
 <!-- I have a citation of <strong><span id='total_cit'></span></strong>. -->
 
 # 🔥 News
-- *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024 <img src='../files/logos/acl_2024.png' style="width: 6em;">.
+- *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024 <img src="../files/logos/acl_2024.png" style="width: 6em;">.
 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src="../files/sdft/sdft.png" alt="SDFT image" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box-text" markdown="1">
 
 [Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669)
 
@@ -42,8 +42,8 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src='..
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv:2304.06627</div><img src="../files/cosda/cosda_setting.png" alt="CoSDA setting image" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arxiv:2304.06627</div><img src="../files/cosda/cosda_setting.png" alt="CoSDA setting image" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [CoSDA: Continual Source-Free Domain Adaptation](https://arxiv.org/abs/2304.06627)
 
@@ -60,8 +60,8 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2021.12* China National Scholarship (Undergraduate).
 
 # 📖 Education
-- *2023.09 - Present* <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src='../files/logos/zju_blue.svg' style="width: 6em;">.
-- *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src='../files/logos/xjtu.png' style="width: 6em;">.
+- *2023.09 - **Present*** <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">.
+- *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">.
 
 # 💻 Internships
 None yet.
