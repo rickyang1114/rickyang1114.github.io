@@ -19,6 +19,8 @@ redirect_from:
 
 I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
 
+<!-- I have a citation of <strong><span id='total_cit'></span></strong>. -->
+
 # 🔥 News
 - *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024.
 
@@ -31,8 +33,8 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, under the s
 
 [PDF](https://arxiv.org/pdf/2402.13669) \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| [Poster](files/sdft/sdft_poster.pdf) \| [Slide](files/sdft/sdft_slide.pdf)
 
-<strong><span id='total_cit'>123</span></strong>
-<span class="show_paper_citations" data="AGjSco8AAAAJ:qjMakFHDy7sC"></span>
+<!-- This is effective only if <span id='total_cit'></span> exists. -->
+<!-- <span class="show_paper_citations" data="AGjSco8AAAAJ:qjMakFHDy7sC"></span> -->
 
 **Zhaorui Yang**, Tianyu Pang, Haozhe Feng, Han Wang, Wei Chen, Minfeng Zhu, Qian Liu
 
