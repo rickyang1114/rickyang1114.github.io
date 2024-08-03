@@ -66,6 +66,6 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 # 💻 Internships
 None yet.
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Updated at:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified on:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d" }}</div>
 
-<!-- <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Updated at: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S"}}</div> -->
+<!-- <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified at: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S"}}</div> -->
