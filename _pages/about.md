@@ -31,7 +31,7 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="..
 
 [Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669)
 
-[PDF](https://arxiv.org/pdf/2402.13669) \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| [Poster](../files/sdft/sdft_poster.pdf) \| [Slide](../files/sdft/sdft_slide.pdf)
+<a href="https://arxiv.org/pdf/2402.13669" style="text-decoration: none;" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| <a href="../files/sdft/sdft_poster.pdf" style="text-decoration: none;" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/sdft/sdft_slide.pdf" style="text-decoration: none;" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i> Slides</a>
 
 <!-- This is effective only if <span id='total_cit'></span> exists. -->
 <!-- <span class="show_paper_citations" data="AGjSco8AAAAJ:qjMakFHDy7sC"></span> -->
@@ -47,7 +47,7 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="..
 
 [CoSDA: Continual Source-Free Domain Adaptation](https://arxiv.org/abs/2304.06627)
 
-[PDF](https://arxiv.org/pdf/2304.06627) \| [![Code](https://img.shields.io/github/stars/FengHZ/CoSDA?style=social&label=Repo+Stars)](https://github.com/FengHZ/CoSDA)
+<a href="https://arxiv.org/pdf/2304.06627" style="text-decoration: none;" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/FengHZ/CoSDA?style=social&label=Repo+Stars)](https://github.com/FengHZ/CoSDA)
 
 Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Zhu, Wei Chen, Shuicheng Yan
 

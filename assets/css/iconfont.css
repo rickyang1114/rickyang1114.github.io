@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../fonts/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-filepdf:before {
+  content: "\e703";
+}
+
+.icon-filepowerpoint:before {
+  content: "\e704";
+}
+
+.icon-poster:before {
+  content: "\e8ce";
+}
+
