@@ -29,9 +29,9 @@ I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="..
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src="../files/sdft/sdft.png" alt="SDFT image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669)
+[Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://aclanthology.org/2024.acl-long.58)
 
-<a href="https://arxiv.org/pdf/2402.13669" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| <a href="../files/sdft/sdft_poster.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/sdft/sdft_slide.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i> Slides</a>
+<a href="https://aclanthology.org/2024.acl-long.58.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/sail-sg/sdft?style=social&label=Repo+Stars)](https://github.com/sail-sg/sdft) \| <a href="../files/sdft/sdft_poster.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/sdft/sdft_slide.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i> Slides</a>
 
 <!-- This is effective only if <span id='total_cit'></span> exists. -->
 <!-- <span class="show_paper_citations" data="AGjSco8AAAAJ:qjMakFHDy7sC"></span> -->
