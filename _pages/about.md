@@ -17,7 +17,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I'm currently insterested in Trustworthy AI and LLMs.
+I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I am also fortunate to work closely with [Qian Liu](https://siviltaram.github.io), [Tianyu Pang](https://p2333.github.io) and [Haozhe Feng](https://fenghz.github.io).
+
+I'm currently insterested in Trustworthy AI and LLMs. 
 
 <!-- I have a citation of <strong><span id='total_cit'></span></strong>. -->
 
