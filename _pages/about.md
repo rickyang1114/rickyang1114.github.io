@@ -49,7 +49,7 @@ I'm currently insterested in Trustworthy AI and LLMs.
 
 [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)
 
-<a href="https://arxiv.org/abs/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a>
+<a href="https://arxiv.org/abs/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/rickyang1114/multimodal-deepresearcher?style=social&label=Repo+Stars)](https://github.com/rickyang1114/multimodal-deepresearcher) \| <a href="https://rickyang1114.github.io/multimodal-deepresearcher" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-homepage" aria-hidden="true"></i> Project Page</a>
 
 **Zhaorui Yang\***, Bo Pan\*, Han Wang\*, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen
 
