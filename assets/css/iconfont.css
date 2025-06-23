@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "iconfont"; /* Project id  */
+  font-family: "iconfont";
   src: url('../fonts/iconfont.ttf') format('truetype');
 }
 
@@ -9,6 +9,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-homepage:before {
+  content: "\e702";
 }
 
 .icon-filepdf:before {
