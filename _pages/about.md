@@ -44,6 +44,20 @@ I'm currently insterested in Trustworthy AI and LLMs.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv:2506.02454</div><img src="../files/multimodal_deepresearcher/multimodal_deepresearcher_framework.png" alt="Multimodal DeepResearcher framework" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)
+
+<a href="https://arxiv.org/abs/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a>
+
+**Zhaorui Yang\***, Bo Pan\*, Han Wang\*, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen
+
+- In this work, we propose Formal Description of Visualization (FDV), a structured textual representation of charts that enables LLMs to learn from and generate diverse, high-quality visualizations. Building on this representation, we introduce Multimodal DeepResearcher, an agentic framework that automatically generates comprehensive multimodal reports from scratch with interleaved texts and visualizations.
+
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">arxiv:2304.06627</div><img src="../files/cosda/cosda_setting.png" alt="CoSDA setting image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
