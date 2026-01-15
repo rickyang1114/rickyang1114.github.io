@@ -25,8 +25,8 @@ I'm currently insterested in agents and (M)LLMs.
 <!-- I have a citation of <strong><span id='total_cit'></span></strong>. -->
 
 # 🔥 News
-- *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024 <img src="../files/logos/acl_2024.png" style="width: 6em;">.
-- *2025.11*: 🎉🎉 One paper gets accepted by AAAI 2026 as Oral <img src="../files/logos/aaai_2026.png" style="width: 6em;">.
+- *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024 <img src="../files/logos/acl_2024.png" style="width: 6em;">
+- *2025.11*: 🎉🎉 One paper gets accepted by AAAI 2026 as Oral <img src="../files/logos/aaai_2026.png" style="width: 6em;">
 
 # 📝 Publications
 
@@ -78,11 +78,11 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2021.12* China National Scholarship (Undergraduate).
 
 # 📖 Education
-- *2023.09 - **Present*** <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">.
-- *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">.
+- *2023.09 - **Present*** <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">
+- *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">
 
 # 💻 Internships
-- *2025.7 - **Present***: TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;">. <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
+- *2025.7 - **Present***: TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;"> <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified on:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d" }}</div>
 
