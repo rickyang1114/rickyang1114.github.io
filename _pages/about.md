@@ -50,7 +50,7 @@ I'm currently insterested in Trustworthy AI and LLMs.
 
 [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)
 
-<a href="https://arxiv.org/pdf/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/rickyang1114/multimodal-deepresearcher?style=social&label=Repo+Stars)](https://github.com/rickyang1114/multimodal-deepresearcher) \| <a href="../files/multimodal_deepresearcher/poster.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/multimodal_deepresearcher/slides.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i></a> \| <a href="https://rickyang1114.github.io/multimodal-deepresearcher" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-homepage" aria-hidden="true"></i> Project Page</a>
+<a href="https://arxiv.org/pdf/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/rickyang1114/multimodal-deepresearcher?style=social&label=Repo+Stars)](https://github.com/rickyang1114/multimodal-deepresearcher) \| <a href="../files/multimodal_deepresearcher/poster.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/multimodal_deepresearcher/slides.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i> Slides</a> \| <a href="https://rickyang1114.github.io/multimodal-deepresearcher" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-homepage" aria-hidden="true"></i> Project Page</a>
 
 **Zhaorui Yang\***, Bo Pan\*, Han Wang\*, Yiyao Wang, Xingyu Liu, Luoxuan Weng, Yingchaojie Feng, Haozhe Feng, Minfeng Zhu, Bo Zhang, Wei Chen
 
@@ -81,7 +81,7 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">.
 
 # 💻 Internships
-- *2025.7 - **Present*** TEG, Tencent <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
+- *2025.7 - **Present*** TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;"> <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified on:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d" }}</div>
 
