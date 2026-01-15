@@ -17,9 +17,10 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ). I am also fortunate to work closely with [Qian Liu](https://siviltaram.github.io), [Tianyu Pang](https://p2333.github.io), [Haozhe Feng](https://fenghz.github.io) and [Minfeng Zhu](https://minfengzhu.github.io).
+I'm a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">, under the supervision of Prof. [Wei Chen](https://scholar.google.com/citations?user=EgQyYGUAAAAJ).
+ <!-- I am also fortunate to work closely with [Qian Liu](https://siviltaram.github.io), [Tianyu Pang](https://p2333.github.io), [Haozhe Feng](https://fenghz.github.io) and [Minfeng Zhu](https://minfengzhu.github.io). -->
 
-I'm currently insterested in Trustworthy AI and LLMs. 
+I'm currently insterested in agents and (M)LLMs. 
 
 <!-- I have a citation of <strong><span id='total_cit'></span></strong>. -->
 
@@ -81,7 +82,7 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">.
 
 # 💻 Internships
-- *2025.7 - **Present*** TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;"> <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
+- *2025.7 - **Present***: TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;">. <br> Developing an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses containing 1,000+ tables per user, enabling natural language queries for complex data exploration and business intelligence.
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified on:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d" }}</div>
 
