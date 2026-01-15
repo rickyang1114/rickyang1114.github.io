@@ -25,6 +25,7 @@ I'm currently insterested in Trustworthy AI and LLMs.
 
 # 🔥 News
 - *2024.05*: 🎉🎉 One paper gets accepted by ACL 2024 <img src="../files/logos/acl_2024.png" style="width: 6em;">.
+- *2025.11*: 🎉🎉 One paper gets accepted by AAAI 2026 as Oral <img src="../files/logos/aaai_2026.png" style="width: 6em;">.
 
 # 📝 Publications
 
@@ -44,7 +45,7 @@ I'm currently insterested in Trustworthy AI and LLMs.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv:2506.02454</div><img src="../files/multimodal_deepresearcher/multimodal_deepresearcher_framework.png" alt="Multimodal DeepResearcher framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src="../files/multimodal_deepresearcher/multimodal_deepresearcher_framework.png" alt="Multimodal DeepResearcher framework" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)
