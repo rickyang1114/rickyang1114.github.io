@@ -49,7 +49,7 @@ I'm currently insterested in agents and (M)LLMs.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src="../files/multimodal_deepresearcher/multimodal_deepresearcher_framework.png" alt="Multimodal DeepResearcher framework" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)
+[Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://ojs.aaai.org/index.php/AAAI/article/view/40734)
 
 <a href="https://arxiv.org/pdf/2506.02454" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepdf" aria-hidden="true"></i> PDF</a> \| [![Code](https://img.shields.io/github/stars/rickyang1114/multimodal-deepresearcher?style=social&label=Repo+Stars)](https://github.com/rickyang1114/multimodal-deepresearcher) \| <a href="../files/multimodal_deepresearcher/poster.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-poster"></i> Poster</a> \| <a href="../files/multimodal_deepresearcher/slides.pdf" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-filepowerpoint" aria-hidden="true"></i> Slides</a> \| <a href="https://rickyang1114.github.io/multimodal-deepresearcher" style="text-decoration: none; color: #a00" target="_blank"><i class="iconfont icon-homepage" aria-hidden="true"></i> Project Page</a>
 
@@ -78,11 +78,11 @@ Haozhe Feng\*, **Zhaorui Yang\***, Hesun Chen\*, Tianyu Pang, Chao Du, Minfeng Z
 - *2021.12* China National Scholarship (Undergraduate).
 
 # 📖 Education
-- *2023.09 - 2028.07 (Expected)* <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">
+- *2023.09 - 2028.06 (Expected)* <br> Ph.D. student in Software Engineering at State Key Lab of CAD&CG, Zhejiang University <img src="../files/logos/zju_blue.svg" style="width: 6em;">
 - *2019.09 - 2023.06* <br> B.E. in Software Engineering, Xi'an Jiaotong University <img src="../files/logos/xjtu.png" style="width: 6em;">
 
 # 💻 Internships
-- *2025.07 - 2026.03 (Expected)*: TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;"> <br> Developed an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses, enabling natural language queries for complex data exploration and business intelligence. Designed and implemented profiling algorithms to handle massive-scale tables with heterogeneous data types with semi-structured formats (JSON, ARRAY). Built end-to-end analytical pipeline encompassing schema linking, automated SQL generation, and Python-based data analysis, streamlining the pipeline from user intent to actionable insights.
+- *2025.07 - 2026.03*: TEG, Tencent <img src="../files/logos/tencent.png" style="width: 6em;"> <br> Developed an LLM-powered Data Agent to automate Text-to-Insight analysis across enterprise data warehouses, enabling natural language queries for complex data exploration and business intelligence. Designed and implemented profiling algorithms to handle massive-scale tables with heterogeneous data types with semi-structured formats (JSON, ARRAY). Built end-to-end analytical pipeline encompassing schema linking, automated SQL generation, and Python-based data analysis, streamlining the pipeline from user intent to actionable insights.
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Last Modified on:<img src="../files/icons/clock.svg" style="height: 1em; margin-left: 0.5em"> {{ site.time | date: "%Y-%m-%d" }}</div>
 
