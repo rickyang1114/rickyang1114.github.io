@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaorui Yang"
-description              : "Currently interested in Trustworthy AI and LLMs."
+description              : "Language models, AI agents, and reinforcement learning."
 repository               : "rickyang1114/rickyang1114.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -66,6 +66,7 @@ include:
   - _pages
   - files
 exclude:
+  - .local
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

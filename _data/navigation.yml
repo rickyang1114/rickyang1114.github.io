@@ -1,25 +1,7 @@
-# main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Education"
-    url: "/#-education"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
-  
-  - title: "Résumé"
-    url: "files/Resume_of_Zhaorui_Yang.pdf"
+  - {title: "About Me", url: "/#about-me"}
+  - {title: "Publications", url: "/#-publications"}
+  - {title: "Honors and Awards", url: "/#-honors-and-awards"}
+  - {title: "Education", url: "/#-education"}
+  - {title: "Internships", url: "/#-internships"}
+  - {title: "Résumé", url: "/files/Resume_of_Zhaorui_Yang.pdf"}

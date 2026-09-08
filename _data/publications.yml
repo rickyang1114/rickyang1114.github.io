@@ -1,0 +1,52 @@
+- title: "Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework"
+  venue: "AAAI 2026"
+  distinction: "Oral"
+  url: "https://ojs.aaai.org/index.php/AAAI/article/view/40734"
+  image: "/files/multimodal_deepresearcher/multimodal_deepresearcher_framework.png"
+  image_alt: "Multimodal DeepResearcher framework for generating text and charts"
+  authors: "<strong>Zhaorui Yang*</strong>, Bo Pan*, Han Wang*, Yiyao Wang, Xingyu Liu, Luoxuan Weng, Yingchaojie Feng, Haozhe Feng, Minfeng Zhu, Bo Zhang, Wei Chen"
+  summary: "DeepResearch systems typically generate text-only reports, despite visualizations being essential for real-world analysis. We introduced an agentic framework that generates text-chart interleaved reports from scratch, together with a structured chart representation that enables LLMs to produce diverse, high-quality visualizations."
+  citations: 26
+  repository: "rickyang1114/multimodal-deepresearcher"
+  links:
+    - {label: "Paper", url: "https://arxiv.org/pdf/2506.02454"}
+    - {label: "Code", url: "https://github.com/rickyang1114/multimodal-deepresearcher"}
+    - {label: "Project", url: "https://rickyang1114.github.io/multimodal-deepresearcher"}
+    - {label: "Poster", url: "/files/multimodal_deepresearcher/poster.pdf"}
+    - {label: "Slides", url: "/files/multimodal_deepresearcher/slides.pdf"}
+
+- title: "Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning"
+  venue: "ACL 2024"
+  url: "https://aclanthology.org/2024.acl-long.58"
+  image: "/files/sdft/sdft.png"
+  image_alt: "Self-Distillation Fine-Tuning method"
+  authors: "<strong>Zhaorui Yang</strong>, Tianyu Pang, Haozhe Feng, Han Wang, Wei Chen, Minfeng Zhu, Qian Liu"
+  summary: "Fine-tuning LLMs often improves downstream performance at the cost of general capabilities. We attributed this trade-off to the distribution gap between task data and the pretrained model, and proposed Self-Distillation Fine-Tuning (SDFT) to bridge this gap by aligning fine-tuning data with the model’s original distribution."
+  citations: 132
+  repository: "sail-sg/sdft"
+  links:
+    - {label: "Paper", url: "https://aclanthology.org/2024.acl-long.58.pdf"}
+    - {label: "Code", url: "https://github.com/sail-sg/sdft"}
+    - {label: "Poster", url: "/files/sdft/sdft_poster.pdf"}
+    - {label: "Slides", url: "/files/sdft/sdft_slides.pdf"}
+
+- title: "ProSPy: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL"
+  venue: "Under review"
+  url: "https://arxiv.org/abs/2606.05836"
+  image: "/files/prospy/prospy.png"
+  authors: "<strong>Zhaorui Yang</strong>, Huawei Zheng, Sen Yang, Yuhui Zhang, Haoxuan Li, Zhizhen Yu, Xuan Yi, Chen Hou, Defeng Xie, Chao Hu, Minfeng Zhu, Dazhen Deng, Haozhe Feng, Danqing Huang, Peng Chen, Wei Chen"
+  summary: "Real-world Text-to-SQL faces heterogeneous schemas, incomplete metadata, SQL dialects, and complex analytical queries. We proposed a profiling-driven SQL–Python agentic framework that combines efficient SQL-based retrieval with flexible Python analysis. ProSPy ranked No. 2 on Spider 2.0-Lite at submission; its improved successor, Tianqiong Data Agent, ranked No. 1 as reported in my September 2026 résumé."
+  links:
+    - {label: "Paper", url: "https://arxiv.org/abs/2606.05836"}
+
+- title: "CoSDA: Continual Source-Free Domain Adaptation"
+  venue: "arXiv · 2023"
+  url: "https://arxiv.org/abs/2304.06627"
+  image: "/files/cosda/cosda_setting.png"
+  image_alt: "Continual source-free domain adaptation setting"
+  authors: "Haozhe Feng*, <strong>Zhaorui Yang*</strong>, Hesun Chen*, Tianyu Pang, Chao Du, Minfeng Zhu, Wei Chen, Shuicheng Yan"
+  summary: "Continual source-free domain adaptation suffers from catastrophic forgetting when adapting to a sequence of target domains. We identified a trade-off between adaptation gain and forgetting loss, and proposed CoSDA to balance adaptation and knowledge retention, outperforming prior methods under continuous domain shifts."
+  repository: "FengHZ/CoSDA"
+  links:
+    - {label: "Paper", url: "https://arxiv.org/pdf/2304.06627"}
+    - {label: "Code", url: "https://github.com/FengHZ/CoSDA"}
